@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-rest-restify",
+  "main": "server.js",
+  "dependencies": {
+    "restify": "latest",
+    "mongoose": "~3.6.13"
+  }
+
+}
