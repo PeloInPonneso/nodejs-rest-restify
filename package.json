@@ -2,7 +2,7 @@
   "name": "nodejs-rest-restify",
   "main": "server.js",
   "dependencies": {
-    "restify": "latest",
+    "restify": "~4.0.3",
     "mongoose": "~3.6.13"
   }
 
